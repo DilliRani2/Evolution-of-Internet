@@ -1,16 +1,56 @@
-# React + Vite
+# 🌐 Evolution of the Internet – Interactive Storytelling Experience
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🔗 Live Demo
+https://evolutionofinternet-dillirani.netlify.app/
 
-Currently, two official plugins are available:
+## 📂 GitHub Repository
+https://github.com/DilliRani2/Evolution-of-Internet
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 📖 Project Overview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+“Evolution of the Internet” is an interactive storytelling website that visually narrates the journey of the internet from its early beginnings to modern technologies.
 
-## Expanding the ESLint configuration
+Unlike traditional static websites, this project focuses on creating an immersive user experience using scroll-based animations, smooth transitions, and interactive UI components. Users explore each phase of the internet as a story, making the learning experience engaging and dynamic.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The project covers key milestones such as ARPANET, the Dot-com era, the rise of social media and mobile internet, and the future of Web3 and AI.
+
+---
+
+## 🧩 Story Structure
+
+The website is divided into five main sections:
+
+1. 🚀 Hero – Introduction to the Evolution of the Internet  
+2. 🧠 ARPANET – The beginning of network communication  
+3. 💻 Dot-Com Era – Rise of websites and online businesses  
+4. 📱 Social & Mobile Internet – Growth of apps and global connectivity  
+5. 🔮 Future (Web3 & AI) – The next generation of the internet  
+
+---
+
+## ✨ Features
+
+- 🎯 Interactive storytelling design  
+- 📜 Scroll-based animations  
+- 🎬 Smooth transitions using Framer Motion  
+- 🖱️ Hover effects and clickable interactions  
+- 🌙 Modern dark-themed UI  
+- 📱 Fully responsive across all devices  
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ React (Vite)
+- 🎨 Tailwind CSS
+- 🎞️ Framer Motion
+
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+npm install
+npm run dev
