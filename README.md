@@ -48,6 +48,15 @@ The website is divided into five main sections:
 - 🎞️ Framer Motion
 
 ---
+## 📄 Project Description
+
+The “Evolution of the Internet” is an interactive storytelling website designed to visually and conceptually showcase the transformation of the internet from its early beginnings to the modern digital era. Instead of presenting information in a static format, this project focuses on delivering an immersive experience where users explore content through smooth scrolling, animations, and interactive elements.
+
+The website is structured into multiple sections, each representing a significant phase in internet history, including ARPANET, the dot-com boom, the rise of social media and mobile internet, and the future of Web3 technologies. Each section uses scroll-based animations and transitions to guide users through a narrative journey, enhancing engagement and understanding.
+
+The design process focused on creating a clean, modern, and responsive interface inspired by storytelling platforms such as Apple product pages and Awwwards-winning websites. Tailwind CSS was used for efficient styling, while Framer Motion enabled smooth animations and transitions, making the experience dynamic and visually appealing.
+
+Overall, the project demonstrates how frontend technologies can be used to transform educational content into an engaging digital experience, combining creativity, performance, and usability.
 
 ## ⚙️ Installation & Setup
 
